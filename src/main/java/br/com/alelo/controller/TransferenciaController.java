@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.alelo.domain.*;
 import br.com.alelo.service.TransferenciaService;
-
 @RestController(value = "transferencia")
 public class TransferenciaController {
 	
